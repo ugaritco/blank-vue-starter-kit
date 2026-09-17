@@ -27,6 +27,7 @@
   "devDependencies": {
     "@ugarit/vite-plugin-wayfinder": "github:ugaritco/vite-plugin-wayfinder#v1.00.00",
     "@types/node": "^22.13.5",
+    "fontaine": "^0.8.2",
     "vite-plus": "0.3.0",
     "vue-tsc": "^2.2.4"
   },
